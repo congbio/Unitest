@@ -1,2 +1,0 @@
-<?php
-echo 'cong llll';

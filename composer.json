@@ -4,14 +4,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Zubair\\TestProject\\": "src/"
+            "App\\": "src/"
         }
     },
-    "authors": [
-        {
-            "name": "Idris Aweda Zubair",
-            "email": "zubairidrisaweda@gmail.com"
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "TestProject/"
         }
-    ],
-    "require": {}
+    }
 }
