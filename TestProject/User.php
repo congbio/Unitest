@@ -4,7 +4,7 @@ namespace Tests;
 
 use PHPUnit\Framework\TestCase;
 
-class ExampleTest extends TestCase
+class User extends TestCase
 {
     private $array;
 
